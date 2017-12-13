@@ -3,7 +3,7 @@ This is a game mock program written by python
 
 # Game Description
 
-There are four doors, each door's back exits a thing. There is a car behind one of the four doors and a book behind each of remain three doors.
+There are four doors, each door's back exits one thing. There is a car behind one of the four doors and a book behind each of remain three doors.
 
 Player A plays at first, he chooses one of the door, and not open it. 
 
